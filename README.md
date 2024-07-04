@@ -25,6 +25,10 @@
 - Introduction to Windows PowerShell 5.1
 - Windows Server 2019 Administration
 
+<h2>🔭 I’m currently working on ...</h2>
+
+I'm working on completing the Harvard CS50x course to gain a deep understanding of computer science and programming languages. My aim is to read and reverse engineer malware, running them in an isolated VM environment to enhance my knowledge and become a better cybersecurity analyst and programmer.
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Braily Vasquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
