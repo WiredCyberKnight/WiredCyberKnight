@@ -1,8 +1,38 @@
-## Hi there 👋
+<h1>Hi, I'm Braily Vasquez! <br/>Cybersecurity Analyst, System Administrator, Programmer</h1>
+
+<h2>💻 I.T. Projects </h2>
+
+- <b>Harvard CS50x Projects</b>
+  - Starting from Scratch
+  - Hello, Me
+  - Mario (Less) or Mario (More)
+  - Cash or Credit
+
+- <b>Active Directory</b>
+  - Created an Active Directory setup using VirtualBox incorporating Windows Server 2019 and Windows 10.
+
+- <b>Custom Gaming PC Build</b>
+  - Successfully designed and assembled a custom gaming PC, showcasing a deep understanding of hardware components and compatibility.
+
+- <b>iPhone Repairs</b>
+  - Ensured devices were fully functional after repairs, providing cost-effective solutions for friends, family, and clients.
+
+
+<h2>📜 Certifications</h2>
+
+- CompTIA Security+
+- Google Cybersecurity
+- Introduction to Windows PowerShell 5.1
+- Windows Server 2019 Administration
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Braily Vasquez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/braily-vasquez-a83303315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
 <!--
-**WiredCyberKnight/WiredCyberKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
