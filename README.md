@@ -2,7 +2,7 @@
 
 <h2>💻 I.T. Projects </h2>
 
-- <b>Harvard CS50x Projects</b>
+- <b>[Harvard CS50x](https://github.com/WiredCyberKnight/Harvard-CS50x)</b>
 
 - <b>Active Directory</b>
 
