@@ -13,7 +13,7 @@
 
 <h2>📜 Certifications</h2>
 
-- CompTIA Security+
+- [CompTIA Security+](https://github.com/WiredCyberKnight/CompTIA-Security-)
 - Google Cybersecurity
 - Introduction to Windows PowerShell 5.1
 - Windows Server 2019 Administration
