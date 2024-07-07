@@ -14,7 +14,7 @@
 <h2>📜 Certifications</h2>
 
 - [CompTIA Security+](https://github.com/WiredCyberKnight/CompTIA-Security-)
-- Google Cybersecurity
+- [Google Cybersecurity Professional Certificate](https://github.com/WiredCyberKnight/Google-Security)
 - Introduction to Windows PowerShell 5.1
 - Windows Server 2019 Administration
 
