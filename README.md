@@ -3,10 +3,6 @@
 <h2>💻 I.T. Projects </h2>
 
 - <b>Harvard CS50x Projects</b>
-  - Starting from Scratch
-  - Hello, Me
-  - Mario (Less) or Mario (More)
-  - Cash or Credit
 
 - <b>Active Directory</b>
 
