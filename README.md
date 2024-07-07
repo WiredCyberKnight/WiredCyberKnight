@@ -9,13 +9,10 @@
   - Cash or Credit
 
 - <b>Active Directory</b>
-  - Created an Active Directory setup using VirtualBox incorporating Windows Server 2019 and Windows 10.
 
 - <b>Custom Gaming PC Build</b>
-  - Successfully designed and assembled a custom gaming PC, showcasing a deep understanding of hardware components and compatibility.
 
 - <b>iPhone Repairs</b>
-  - Ensured devices were fully functional after repairs, providing cost-effective solutions for friends, family, and clients.
 
 
 <h2>📜 Certifications</h2>
