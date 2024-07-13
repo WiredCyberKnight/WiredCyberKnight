@@ -4,7 +4,7 @@
 
 - <b>[Harvard CS50x](https://github.com/WiredCyberKnight/Harvard-CS50x)</b>
 
-- <b>Active Directory</b>
+- <b>[Active Directory](https://github.com/WiredCyberKnight/ActiveDirectory_Lab_Project)</b>
 
 - <b>Custom Gaming PC Build</b>
 
