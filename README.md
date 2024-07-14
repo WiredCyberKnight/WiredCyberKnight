@@ -15,12 +15,19 @@
 
 - [CompTIA Security+](https://github.com/WiredCyberKnight/CompTIA-Security-)
 - [Google Cybersecurity Professional Certificate](https://github.com/WiredCyberKnight/Google-Security)
+
+<h2>🏆 Certificate of Completion</h2>
+
 - [Introduction to Windows PowerShell 5.1](https://github.com/WiredCyberKnight/Introduction-to-Windows-PowerShell-5.1)
 - [Windows Server 2019 Administration](https://github.com/WiredCyberKnight/Windows-Server-2019-Administration)
 
 <h2>🔭 I’m currently working on ...</h2>
 
-I'm working on completing the Harvard CS50x course to gain a deep understanding of computer science and programming languages. My aim is to read and reverse engineer malware, running them in an isolated VM environment to enhance my knowledge and become a better cybersecurity analyst and programmer.
+I'm currently focused on completing the Harvard CS50x course to gain a comprehensive understanding of computer science and programming languages. My goal is to enhance my skills in malware analysis by experimenting with malware in an isolated environment.
+
+Additionally, I'm planning to develop a 3D website as part of my final project, possibly sooner depending on my progress week by week.
+
+After completing CS50x, I intend to delve into network penetration testing and explore various pen testing tools. I'll be sharing these projects here as well.
 
 <h2> 🤳 Connect with me:</h2>
 
