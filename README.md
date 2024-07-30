@@ -13,13 +13,9 @@
 
 <h2>📜 Certifications</h2>
 
-- [CompTIA Security+](https://github.com/WiredCyberKnight/CompTIA-Security-)
-- [Google Cybersecurity Professional Certificate](https://github.com/WiredCyberKnight/Google-Security)
-
-<h2>🏆 Certificate of Completion</h2>
-
-- [Introduction to Windows PowerShell 5.1](https://github.com/WiredCyberKnight/Introduction-to-Windows-PowerShell-5.1)
-- [Windows Server 2019 Administration](https://github.com/WiredCyberKnight/Windows-Server-2019-Administration)
+- CompTIA Security+
+- CompTIA Network+
+- Google Cybersecurity Professional Certificate
 
 <h2>🔭 I’m currently working on ...</h2>
 
